@@ -60,6 +60,7 @@ socket.on("locationMessage", (url)=>{
 document.querySelector("#submit").addEventListener("click",()=>{
     console.log("slanje");
     socket.emit("clientMessage", document.querySelector("#message").value);
+    document.querySelector("#message").value=""; 
     document.querySelector("#message").focus(); 
 })
 
