@@ -1,4 +1,3 @@
 # praksa_2
 
-CHAT-app, krairana kao praktični dio druge stručne prakse. Realna komunikacija implementirana putem SocketIO modula, korištenjem Express razvojnog okvira i NodeJS serverske
-platforme.
+CHAT-app, created as the practical section of the industry practice. Real time communication implemented via the SocketIO module. App developed using the ExpressJS and NodeJS RE.
